@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('busca/{cep}', 'BuscaCepController@busca');
+Route::get('busca/{cep}', 'BuscaCepController@search');
