@@ -1,3 +1,5 @@
+### Projeto usando Guzzle (http://docs.guzzlephp.org/en/stable/index.html) para fazer o GET na api do via cep (https://viacep.com.br/)
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
